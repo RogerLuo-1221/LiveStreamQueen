@@ -97,3 +97,13 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Ignore JetBrains Rider project settings
+.idea/
+/.idea
+/EditorData/Layout
+/EditorData/Temp
+*.slnx
+
+# Claude Code
+.claude/
